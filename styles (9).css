@@ -1,0 +1,68 @@
+body{
+  background-color: #222;
+  background: url(https://uploads.onecompiler.io/43ek2au2v/43uvc7ezq/d36bcceceaa1d390489ec70d93154311.jpg);
+  background-size: cover;
+  padding: 25px;
+  font-family: Arial;
+  color: white;
+}
+.title {
+	color: white;
+}
+
+.form {
+  background-color: #144d37;
+  border-radius: 7px;
+  padding-left: 7px;
+  padding-bottom: 7px;
+  padding-right: 7px;
+  
+}
+
+.form h3 {
+  padding-top: 7px;
+}
+
+.form h4 {
+  color: rgba(255,255,255,0.5);
+}
+
+input {
+  background-color: #144d37;
+  text-decoration: none;
+  all: unset;
+  padding-top: 0;
+  margin-bottom: 10px;
+  border-bottom: 2px solid rgba(255,255,255,0.1);
+  width: 80%;
+  
+}
+
+#showTime {
+  color: rgba(255,255,255,0.5);
+  text-align: right;
+}
+
+.ibeam {
+  font-family: Monospace;
+  font-size: 15px;
+}
+
+.separ {
+  border-color: rgba(255,255,255,0.2);
+}
+
+.submit {
+  all: unset;
+  font-weight: bold;
+  font-size: 20px;
+  align-items: center;
+  padding: 10px;
+  color: rgba(255,255,255,0.5);
+  display: flex;
+  justify-content: center;
+}
+
+.submit:active {
+  color: rgba(255,255,255,1.0);
+}
